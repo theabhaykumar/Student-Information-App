@@ -1,8 +1,4 @@
 # STUDENT INFORMATION APP using REACT NATIVE
-**Team Members**
-1. Abhay Kumar
-2. Jayanta Adhikary
-3. Jos Paul
 
 **Introduction**
 
